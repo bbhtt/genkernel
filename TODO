@@ -1,3 +1,6 @@
 TODOs
+Revert patch in local branch https://github.com/torvalds/linux/commit/262485a50fd4532a8d71165190adc7a0a19bcc9e 
+or test and include https://lore.kernel.org/lkml/20200804201313.6464-1-amonakov@ispras.ru/ in local to fix brightness issue.
 
-https://gist.github.com/kortewegdevries/94787c220f8b203052735ec3ebae83de
+https://cateee.net/lkddb/web-lkddb/index_C.html
+https://git.kernel.org/pub/scm/linux/hotplug/udev.git/plain/README
